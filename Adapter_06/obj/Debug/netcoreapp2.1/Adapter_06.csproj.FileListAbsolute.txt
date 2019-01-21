@@ -1,0 +1,11 @@
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\bin\Debug\netcoreapp2.1\Adapter_06.deps.json
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\bin\Debug\netcoreapp2.1\Adapter_06.runtimeconfig.json
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\bin\Debug\netcoreapp2.1\Adapter_06.runtimeconfig.dev.json
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\bin\Debug\netcoreapp2.1\Adapter_06.dll
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\bin\Debug\netcoreapp2.1\Adapter_06.pdb
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\obj\Debug\netcoreapp2.1\Adapter_06.csprojAssemblyReference.cache
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\obj\Debug\netcoreapp2.1\Adapter_06.csproj.CoreCompileInputs.cache
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\obj\Debug\netcoreapp2.1\Adapter_06.AssemblyInfoInputs.cache
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\obj\Debug\netcoreapp2.1\Adapter_06.AssemblyInfo.cs
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\obj\Debug\netcoreapp2.1\Adapter_06.dll
+D:\github\DesignPatterns\DesignPatterns\Adapter_06\obj\Debug\netcoreapp2.1\Adapter_06.pdb

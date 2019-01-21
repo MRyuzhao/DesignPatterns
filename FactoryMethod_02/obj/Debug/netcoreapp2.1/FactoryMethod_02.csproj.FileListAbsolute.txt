@@ -1,0 +1,14 @@
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\bin\Debug\netcoreapp2.1\FactoryMethod_02.deps.json
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\bin\Debug\netcoreapp2.1\FactoryMethod_02.runtimeconfig.json
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\bin\Debug\netcoreapp2.1\FactoryMethod_02.runtimeconfig.dev.json
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\bin\Debug\netcoreapp2.1\FactoryMethod_02.dll
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\bin\Debug\netcoreapp2.1\FactoryMethod_02.pdb
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\bin\Debug\netcoreapp2.1\SimpleFactory_01.dll
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\bin\Debug\netcoreapp2.1\SimpleFactory_01.pdb
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\obj\Debug\netcoreapp2.1\FactoryMethod_02.csprojAssemblyReference.cache
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\obj\Debug\netcoreapp2.1\FactoryMethod_02.csproj.CoreCompileInputs.cache
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\obj\Debug\netcoreapp2.1\FactoryMethod_02.AssemblyInfoInputs.cache
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\obj\Debug\netcoreapp2.1\FactoryMethod_02.AssemblyInfo.cs
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\obj\Debug\netcoreapp2.1\FactoryMethod_02.csproj.CopyComplete
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\obj\Debug\netcoreapp2.1\FactoryMethod_02.dll
+D:\github\DesignPatterns\DesignPatterns\FactoryMethod_02\obj\Debug\netcoreapp2.1\FactoryMethod_02.pdb

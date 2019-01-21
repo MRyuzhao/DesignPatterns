@@ -1,0 +1,10 @@
+D:\github\DesignPatterns\DesignPatterns\State_11\bin\Debug\netcoreapp2.1\State_11.deps.json
+D:\github\DesignPatterns\DesignPatterns\State_11\bin\Debug\netcoreapp2.1\State_11.runtimeconfig.json
+D:\github\DesignPatterns\DesignPatterns\State_11\bin\Debug\netcoreapp2.1\State_11.runtimeconfig.dev.json
+D:\github\DesignPatterns\DesignPatterns\State_11\bin\Debug\netcoreapp2.1\State_11.dll
+D:\github\DesignPatterns\DesignPatterns\State_11\bin\Debug\netcoreapp2.1\State_11.pdb
+D:\github\DesignPatterns\DesignPatterns\State_11\obj\Debug\netcoreapp2.1\State_11.csproj.CoreCompileInputs.cache
+D:\github\DesignPatterns\DesignPatterns\State_11\obj\Debug\netcoreapp2.1\State_11.AssemblyInfoInputs.cache
+D:\github\DesignPatterns\DesignPatterns\State_11\obj\Debug\netcoreapp2.1\State_11.AssemblyInfo.cs
+D:\github\DesignPatterns\DesignPatterns\State_11\obj\Debug\netcoreapp2.1\State_11.dll
+D:\github\DesignPatterns\DesignPatterns\State_11\obj\Debug\netcoreapp2.1\State_11.pdb

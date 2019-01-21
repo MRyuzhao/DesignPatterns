@@ -1,0 +1,10 @@
+D:\github\DesignPatterns\DesignPatterns\Composite_10\bin\Debug\netcoreapp2.1\Composite_10.deps.json
+D:\github\DesignPatterns\DesignPatterns\Composite_10\bin\Debug\netcoreapp2.1\Composite_10.runtimeconfig.json
+D:\github\DesignPatterns\DesignPatterns\Composite_10\bin\Debug\netcoreapp2.1\Composite_10.runtimeconfig.dev.json
+D:\github\DesignPatterns\DesignPatterns\Composite_10\bin\Debug\netcoreapp2.1\Composite_10.dll
+D:\github\DesignPatterns\DesignPatterns\Composite_10\bin\Debug\netcoreapp2.1\Composite_10.pdb
+D:\github\DesignPatterns\DesignPatterns\Composite_10\obj\Debug\netcoreapp2.1\Composite_10.csproj.CoreCompileInputs.cache
+D:\github\DesignPatterns\DesignPatterns\Composite_10\obj\Debug\netcoreapp2.1\Composite_10.AssemblyInfoInputs.cache
+D:\github\DesignPatterns\DesignPatterns\Composite_10\obj\Debug\netcoreapp2.1\Composite_10.AssemblyInfo.cs
+D:\github\DesignPatterns\DesignPatterns\Composite_10\obj\Debug\netcoreapp2.1\Composite_10.dll
+D:\github\DesignPatterns\DesignPatterns\Composite_10\obj\Debug\netcoreapp2.1\Composite_10.pdb

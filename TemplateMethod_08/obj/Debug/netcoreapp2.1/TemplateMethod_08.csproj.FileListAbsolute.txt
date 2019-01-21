@@ -1,0 +1,10 @@
+D:\github\DesignPatterns\DesignPatterns\TemplateMethod_08\bin\Debug\netcoreapp2.1\TemplateMethod_08.deps.json
+D:\github\DesignPatterns\DesignPatterns\TemplateMethod_08\bin\Debug\netcoreapp2.1\TemplateMethod_08.runtimeconfig.json
+D:\github\DesignPatterns\DesignPatterns\TemplateMethod_08\bin\Debug\netcoreapp2.1\TemplateMethod_08.runtimeconfig.dev.json
+D:\github\DesignPatterns\DesignPatterns\TemplateMethod_08\bin\Debug\netcoreapp2.1\TemplateMethod_08.dll
+D:\github\DesignPatterns\DesignPatterns\TemplateMethod_08\bin\Debug\netcoreapp2.1\TemplateMethod_08.pdb
+D:\github\DesignPatterns\DesignPatterns\TemplateMethod_08\obj\Debug\netcoreapp2.1\TemplateMethod_08.csproj.CoreCompileInputs.cache
+D:\github\DesignPatterns\DesignPatterns\TemplateMethod_08\obj\Debug\netcoreapp2.1\TemplateMethod_08.AssemblyInfoInputs.cache
+D:\github\DesignPatterns\DesignPatterns\TemplateMethod_08\obj\Debug\netcoreapp2.1\TemplateMethod_08.AssemblyInfo.cs
+D:\github\DesignPatterns\DesignPatterns\TemplateMethod_08\obj\Debug\netcoreapp2.1\TemplateMethod_08.dll
+D:\github\DesignPatterns\DesignPatterns\TemplateMethod_08\obj\Debug\netcoreapp2.1\TemplateMethod_08.pdb
